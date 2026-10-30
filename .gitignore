@@ -10,3 +10,9 @@ android/local.properties
 android/key.properties
 *.iml
 .DS_Store
+
+# Flutter SDK lokal
+/smart-business-card-flutter-master/flutter/
+
+# Flutter SDK lokal di folder lama
+/smart-business-card-flutter-master/
